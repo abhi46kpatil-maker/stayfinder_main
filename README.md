@@ -48,13 +48,7 @@ This project is a dynamic web platform designed to connect university students s
 - Select a subscription plan and list properties for rent.
 ### For Admin:
 - Log in as an admin to approve or reject property listings.
-## Acknowledgments
-This project was developed as a group effort by:
 
-- M. R. Zaiena - https://github.com/zaina-r
-- Imansha Dilshan - https://github.com/ima-69
-- Mihiran Weerasekara - https://github.com/sandaruM17
-- Sachini Weerakkody - https://github.com/SachiniUresha
 - Nadun Dananjaya - https://github.com/wgnadun
 
 Special thanks to everyone who contributed to this project!
