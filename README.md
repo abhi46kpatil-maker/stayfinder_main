@@ -46,11 +46,6 @@ This project is a dynamic web platform designed to connect university students s
 ### For Property Owners:
 - Register as a property owner.
 - Select a subscription plan and list properties for rent.
-### For Admin:
-- Log in as an admin to approve or reject property listings.
 
-- Nadun Dananjaya - https://github.com/wgnadun
-
-Special thanks to everyone who contributed to this project!
 
 
